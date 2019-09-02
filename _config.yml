@@ -68,8 +68,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links: https://www.linkedin.com/in/fredy-gonzalez-86a297187/
   rss: true
-  email: "fredygonzalezbusiness@gmail.com"
-  github: https://github.com/ovranos
+  email: ""
+  github: 
 #  reddit: yourname
   linkedin: https://www.linkedin.com/in/fredy-gonzalez-86a297187/
 #  xing: yourname
