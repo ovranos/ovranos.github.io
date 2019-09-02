@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: "the øvranos prjct"
+title: the øvranos prjct
 
 # Short description of your site
-description: "This site showcases the øvranos prjct."
+description: This site showcases the øvranos prjct.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
