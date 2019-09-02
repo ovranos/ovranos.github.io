@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: the øvranos prjct
+title: the ovranos prjct
 
 # Short description of your site
-description: This site showcases the øvranos prjct.
+description: Welcome
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,21 +20,21 @@ description: This site showcases the øvranos prjct.
 
 # List of links in the navigation bar
 navbar-links:
-  about me: "aboutme"
-  some links:
-    - øvranos dreams: "http://ovranos.wordpress.com/"
-  Author's home: ""
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "Documents/Pictures/GITHUB.jpg"
+avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
 
 # --- Background colour/image options --- #
-
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
@@ -59,19 +59,21 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: 
-  name: Fredy Gonzalez
+author:
+  name: Some Person
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links: https://www.linkedin.com/in/fredy-gonzalez-86a297187/
-  #rss: true
-  #email: ""
-  #github: 
+social-network-links:
+  rss: true
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/fredy-gonzalez-86a297187/
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -85,6 +87,8 @@ social-network-links: https://www.linkedin.com/in/fredy-gonzalez-86a297187/
 
 # Select which share links to show in posts
 share-links-active:
+  twitter: true
+  facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer
