@@ -4,7 +4,7 @@
 title: the øvranos prjct
 
 # Short description of your site
-description: This site showcases my project, the øvranos prjct. 
+description: This site showcases the øvranos prjct. 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,11 +20,10 @@ description: This site showcases my project, the øvranos prjct.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  R:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  about me: "aboutme"
+  some links:
+    - øvranos dreams: "http://ovranos.wordpress.com/"
+  Author's home: ""
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
